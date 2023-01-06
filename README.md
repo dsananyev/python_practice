@@ -1,1 +1,1 @@
-Some code from codewars' katas, leetcode and other resourses
+Some code from codewars, leetcode and other resourses
