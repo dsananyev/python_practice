@@ -1,1 +1,1 @@
-# python_practice
+Some code from codewars' katas 
